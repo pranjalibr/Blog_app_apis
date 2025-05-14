@@ -10,58 +10,58 @@ import lombok.Setter;
 
 public class UserDto {
 
-	private Integer Id;
+	private Integer id;
 	
 	
-	private String Name;
+	private String name;
 	
 	
-	private String Email;
+	private String email;
 	
 	
-	private String Password;
+	private String password;
 	
 	
-	private String About;
+	private String about;
 
 	 public Integer getId() {
-	        return Id;
+	        return id;
 	    }
 
 	    public void setId(Integer id) {
-	        this.Id = id;
+	        this.id = id;
 	    }
 
 	    public String getName() {
-			return Name;
+			return name;
 		}
 
 		public void setName(String name) {
-			this.Name = name;
+			this.name = name;
 		}
 
 		public String getEmail() {
-			return Email;
+			return email;
 		}
 
 		public void setEmail(String email) {
-			this.Email = email;
+			this.email = email;
 		}
 
 		public String getPassword() {
-			return Password;
+			return password;
 		}
 
 		public void setPassword(String password) {
-			this.Password = password;
+			this.password = password;
 		}
 
 		public String getAbout() {
-			return About;
+			return about;
 		}
 
 		public void setAbout(String about) {
-			this.About = about;
+			this.about = about;
 		}
 		
 		
