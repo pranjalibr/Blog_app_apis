@@ -21,7 +21,6 @@ import com.blog.services.CategoryService;
 
 import jakarta.validation.Valid;
 
-//controllers of category
 
 @RestController
 @RequestMapping("/api/categories")
