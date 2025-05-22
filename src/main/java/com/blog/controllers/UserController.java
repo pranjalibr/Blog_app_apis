@@ -18,6 +18,8 @@ import com.blog.payloads.ApiResponse;
 import com.blog.payloads.UserDto;
 import com.blog.services.UserService;
 
+import jakarta.validation.Valid;
+
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
@@ -26,7 +28,7 @@ public class UserController {
 	private UserService userService;
 
 	@PostMapping("/")
-	public ResponseEntity<UserDto> createUser(@RequestBody UserDto userDto) {
+	public ResponseEntity<UserDto> createUser(@Valid @RequestBody UserDto userDto) {
 
 		UserDto createUserDto = this.userService.createUser(userDto);
 
@@ -35,7 +37,7 @@ public class UserController {
 
 //	Put_Update User
 	@PutMapping("/{userId}")
-	public ResponseEntity<UserDto> updateUser(@RequestBody UserDto userDto, @PathVariable 	Integer userId) {
+	public ResponseEntity<UserDto> updateUser(@Valid @RequestBody UserDto userDto, @PathVariable 	Integer userId) {
 
 		UserDto updatedUser = this.userService.updateUser(userDto, userId);
 
@@ -48,7 +50,7 @@ public class UserController {
 	@DeleteMapping("/{userId}")
 	public ResponseEntity<ApiResponse> deleteUser(@PathVariable Integer userId) {
 	this.userService.deleteUser(userId);
-		return new ResponseEntity<ApiResponse>(new ApiResponse("User Deleted 			Successfully...!", true), HttpStatus.OK);
+		return new ResponseEntity<ApiResponse>(new ApiResponse("User Deleted Successfully...!", true), HttpStatus.OK);
 	}
 
 //Get_User get

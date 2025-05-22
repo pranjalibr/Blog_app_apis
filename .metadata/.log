@@ -1,4 +1,4 @@
-!SESSION 2025-04-23 15:39:17.911 -----------------------------------------------
+!SESSION 2025-05-22 01:16:37.082 -----------------------------------------------
 eclipse.buildId=4.35.0.202503181406
 java.version=21.0.6
 java.vendor=Eclipse Adoptium
@@ -6,35 +6,35 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
 Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
 
-!ENTRY ch.qos.logback.classic 1 0 2025-04-23 15:39:20.394
+!ENTRY ch.qos.logback.classic 1 0 2025-05-22 01:16:40.633
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
 
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-04-23 15:39:20.641
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-05-22 01:16:40.944
 !MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (328) Component descriptor entry 'OSGI-INF/*.xml' not found
 
-!ENTRY ch.qos.logback.classic 1 0 2025-04-23 15:39:32.382
+!ENTRY ch.qos.logback.classic 1 0 2025-05-22 01:16:45.202
 !MESSAGE Logback config file: C:\Users\Pranjali B\Desktop\Blog_Apis_app\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
 
-!ENTRY org.eclipse.ui 2 0 2025-04-23 15:39:32.843
+!ENTRY org.eclipse.ui 2 0 2025-05-22 01:16:45.949
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-23 15:39:32.843
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-22 01:16:45.950
 !MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
 
-!ENTRY org.eclipse.ui 2 0 2025-04-23 15:39:33.165
+!ENTRY org.eclipse.ui 2 0 2025-05-22 01:16:46.374
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-23 15:39:33.165
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-22 01:16:46.374
 !MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
 
-!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-04-23 15:39:37.522
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-05-22 01:16:51.765
 !MESSAGE No search provider was registered. Tasks search is not available.
 
-!ENTRY org.eclipse.egit.ui 2 0 2025-04-23 15:39:38.407
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-22 01:16:52.884
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\Pranjali B'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-!SESSION 2025-04-23 15:39:58.899 -----------------------------------------------
+!SESSION 2025-05-22 01:17:41.330 -----------------------------------------------
 eclipse.buildId=4.35.0.202503181406
 java.version=21.0.6
 java.vendor=Eclipse Adoptium
@@ -42,167 +42,29 @@ BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
 Framework arguments:  -product org.springframework.boot.ide.branding.sts4
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\Users\Pranjali B\Desktop\Blog_Apis_app
 
-!ENTRY ch.qos.logback.classic 1 0 2025-04-23 15:40:01.644
+!ENTRY ch.qos.logback.classic 1 0 2025-05-22 01:17:45.363
 !MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
 
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-04-23 15:40:01.890
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-05-22 01:17:45.691
 !MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (328) Component descriptor entry 'OSGI-INF/*.xml' not found
 
-!ENTRY ch.qos.logback.classic 1 0 2025-04-23 15:40:03.000
+!ENTRY ch.qos.logback.classic 1 0 2025-05-22 01:17:47.225
 !MESSAGE Logback config file: C:\Users\Pranjali B\Desktop\Blog_Apis_app\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
 
-!ENTRY org.eclipse.ui 2 0 2025-04-23 15:40:03.426
+!ENTRY org.eclipse.ui 2 0 2025-05-22 01:17:47.929
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-23 15:40:03.427
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-22 01:17:47.929
 !MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
 
-!ENTRY org.eclipse.ui 2 0 2025-04-23 15:40:03.734
+!ENTRY org.eclipse.ui 2 0 2025-05-22 01:17:48.409
 !MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-23 15:40:03.734
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-22 01:17:48.409
 !MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
 
-!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-04-23 15:40:07.353
+!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-05-22 01:17:52.382
 !MESSAGE No search provider was registered. Tasks search is not available.
 
-!ENTRY org.eclipse.egit.ui 2 0 2025-04-23 15:40:08.288
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Pranjali B'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-!SESSION 2025-04-23 15:41:53.893 -----------------------------------------------
-eclipse.buildId=4.35.0.202503181406
-java.version=21.0.6
-java.vendor=Eclipse Adoptium
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
-Framework arguments:  -product org.springframework.boot.ide.branding.sts4
-Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
-
-!ENTRY ch.qos.logback.classic 1 0 2025-04-23 15:41:56.071
-!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
-
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-04-23 15:41:56.309
-!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (328) Component descriptor entry 'OSGI-INF/*.xml' not found
-
-!ENTRY ch.qos.logback.classic 1 0 2025-04-23 15:42:04.214
-!MESSAGE Logback config file: C:\Users\Pranjali B\Desktop\Blog_Apis_app\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
-
-!ENTRY org.eclipse.ui 2 0 2025-04-23 15:42:04.652
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-23 15:42:04.652
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.ui 2 0 2025-04-23 15:42:04.960
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-04-23 15:42:04.961
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.egit.ui 2 0 2025-04-23 15:42:08.242
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Pranjali B'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-!SESSION 2025-05-01 18:38:58.218 -----------------------------------------------
-eclipse.buildId=4.35.0.202503181406
-java.version=21.0.6
-java.vendor=Eclipse Adoptium
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
-Framework arguments:  -product org.springframework.boot.ide.branding.sts4
-Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\Users\Pranjali B\Desktop\Blog_Apis_app
-
-!ENTRY ch.qos.logback.classic 1 0 2025-05-01 18:39:01.637
-!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
-
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-05-01 18:39:01.969
-!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (328) Component descriptor entry 'OSGI-INF/*.xml' not found
-
-!ENTRY ch.qos.logback.classic 1 0 2025-05-01 18:39:03.705
-!MESSAGE Logback config file: C:\Users\Pranjali B\Desktop\Blog_Apis_app\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
-
-!ENTRY org.eclipse.ui 2 0 2025-05-01 18:39:04.233
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-01 18:39:04.233
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.ui 2 0 2025-05-01 18:39:04.605
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-01 18:39:04.605
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.egit.ui 2 0 2025-05-01 18:39:09.820
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Pranjali B'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-!SESSION 2025-05-01 18:39:47.035 -----------------------------------------------
-eclipse.buildId=4.35.0.202503181406
-java.version=21.0.6
-java.vendor=Eclipse Adoptium
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
-Framework arguments:  -product org.springframework.boot.ide.branding.sts4
-Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
-
-!ENTRY ch.qos.logback.classic 1 0 2025-05-01 18:39:51.457
-!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
-
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-05-01 18:39:51.794
-!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (328) Component descriptor entry 'OSGI-INF/*.xml' not found
-
-!ENTRY ch.qos.logback.classic 1 0 2025-05-01 18:39:55.659
-!MESSAGE Logback config file: C:\Users\Pranjali B\Desktop\Blog_Apis_app\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
-
-!ENTRY org.eclipse.ui 2 0 2025-05-01 18:39:56.317
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-01 18:39:56.317
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.ui 2 0 2025-05-01 18:39:56.768
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-01 18:39:56.768
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.egit.ui 2 0 2025-05-01 18:40:01.536
-!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
-user global configuration and to define the default location to store repositories: 'C:\Users\Pranjali B'. If this is
-not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
-EGit might behave differently since they see different configuration options.
-This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
-
-!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-05-01 18:40:16.721
-!MESSAGE No search provider was registered. Tasks search is not available.
-!SESSION 2025-05-01 18:41:03.553 -----------------------------------------------
-eclipse.buildId=4.35.0.202503181406
-java.version=21.0.6
-java.vendor=Eclipse Adoptium
-BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
-Framework arguments:  -product org.springframework.boot.ide.branding.sts4
-Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
-
-!ENTRY ch.qos.logback.classic 1 0 2025-05-01 18:41:06.877
-!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
-
-!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-05-01 18:41:07.223
-!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (328) Component descriptor entry 'OSGI-INF/*.xml' not found
-
-!ENTRY ch.qos.logback.classic 1 0 2025-05-01 18:41:25.964
-!MESSAGE Logback config file: C:\Users\Pranjali B\Desktop\Blog_Apis_app\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
-
-!ENTRY org.eclipse.ui 2 0 2025-05-01 18:41:26.664
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-01 18:41:26.664
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.ui 2 0 2025-05-01 18:41:27.128
-!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
-!SUBENTRY 1 org.eclipse.ui 2 0 2025-05-01 18:41:27.128
-!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
-
-!ENTRY org.eclipse.mylyn.tasks.ui 2 0 2025-05-01 18:41:32.250
-!MESSAGE No search provider was registered. Tasks search is not available.
-
-!ENTRY org.eclipse.egit.ui 2 0 2025-05-01 18:41:33.323
+!ENTRY org.eclipse.egit.ui 2 0 2025-05-22 01:17:53.448
 !MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
 user global configuration and to define the default location to store repositories: 'C:\Users\Pranjali B'. If this is
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
