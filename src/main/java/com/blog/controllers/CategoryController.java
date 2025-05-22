@@ -21,6 +21,8 @@ import com.blog.services.CategoryService;
 
 import jakarta.validation.Valid;
 
+//controllers of category
+
 @RestController
 @RequestMapping("/api/categories")
 public class CategoryController {
@@ -68,6 +70,7 @@ public class CategoryController {
 		List<CategoryDto> categories =this.categoryService.getCategories();
 		return  ResponseEntity.ok(categories);
 		}
+	
 }
 
 
